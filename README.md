@@ -1,2 +1,3 @@
-# kernel-startup-code
-Kernel Startup Code
+# Kernel Startup Code 
+
+Learning Kernel Development
